@@ -771,14 +771,5 @@ transition-delay: 0s;
         transform: translateX(0);
         transition-delay: .25s;
     }
-    .education{
-        width: 100rem;
-    }
-    .skill{
-        width: 100rem;
-    }
-    .about-me{
-        width: 100rem;
-    }
    
 }
